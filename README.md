@@ -1,5 +1,15 @@
+![capture](https://user-images.githubusercontent.com/58985013/71417492-e1084c00-26a8-11ea-8670-a9a496c6a345.jpg)
+
+
+# YouTube
+
+https://www.youtube.com/watch?v=j7_PHALq9a4
 
 ### Get started
+
+ボイラープレートを使っています。フロントエンドの環境を簡単に設定するためのテンプレートファイルみたいなものです。下記のリポジトリのものを使っています。
+
+ビルドの仕方の参考にしてください。
 
 ```
   git clone https://github.com/Dugnist/html5-boilerplate.git my_project
